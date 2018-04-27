@@ -1,5 +1,6 @@
 # Documentación de nuestro proyecto
 
+Se incorporo Pablo Bianchi al equipo
 
 ## Versiones del código fuente
 PHP 7.1
